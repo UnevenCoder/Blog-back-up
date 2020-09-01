@@ -19,7 +19,7 @@ The dev community on twitter is very supportive and welcoming .
 
 ## How I discovered the #100DaysOfCode Challenge?
 
-I finnal got some free time thanks to Summer Vacation. While wasting time and scrolling  through some blogs posts on FreeCodeCamp I found **#100DaysOfCode** . Since I had nothing to do ,I decidided to take up the challenge . Being the guy I'm procastinated for a week then finally started the challenge on 27 June . I missed a few days due to travelling and hit 50 days milestone on 18 of August .
+I finally got some free time thanks to Summer Vacation. While wasting time and scrolling  through some blogs posts on FreeCodeCamp I found **#100DaysOfCode** . Since I had nothing to do ,I decided to take up the challenge . Being the guy I'm procrastinated for a week then finally started the challenge on 27 June . I missed a few days due to travelling and hit 50 days milestone on 18 of August .
  
 ##### My first day : 
 %[https://twitter.com/crafter_coder/status/1276863273003089921?s=19]
@@ -31,11 +31,11 @@ I have used **many resources**, I will be sharing the one's which had the **maxi
 
 ### [FreeCodeCamp](https://www.freecodecamp.org/learn) 
 
-Any praise won't be enough for the makers of freeCodeCamp . If you want to learn web-development this should be your goto site .It's amazing and has a great supportive community .When I wasn't learning I would be scrolling through their forums and answer/advice any question if I knew about that subject .. it definitely helped me to revise the concepts and stay on track. Their blog posts are amazing and really informative too .. So if you are a beginner and want to learn web development than this should be your goto place.
+Any praise won't be enough for the makers of **FreeCodeCamp** . If you want to learn **web-development** this should be your go-to site .It's amazing and has a great **supportive** community .When I wasn't learning I would be scrolling through their forums and answer/advice any question if I knew about that subject .. it definitely helped me to revise the concepts and stay on track. Their blog posts are amazing and really **informative** too .. So if you are a beginner and want to learn web development than this should be your go-to place.
 
 ### [One Month](https://onemonth.com/)
 
-I got 1 month subscription for free thanks to **GitHub Student Pack** .. Their javascript course is amazing if you need to revise concepts and learn things by doing some cool projects .I went through their responsive design , javascript , product management , startup and growth hacker courses .If you can afford it I would highly suggest checking em out.
+I got 1 month subscription for free thanks to **GitHub Student Pack** .. Their **JavaScript** course is amazing if you need to revise concepts and learn things by doing some cool projects .I went through their responsive design , **JavaScript** , product management , startup and growth hacker courses .If you can afford it I would highly suggest checking em out.
 
 ### [Code Wars](https://www.codewars.com/)
 
@@ -43,15 +43,15 @@ If I am bored and want to play around with algorithms this is my goto place .. I
 
 ### [An amazing api list](https://any-api.com/)
 
-I personally love apis and this is the best resource so far ... search for an api .. goto docs and rest will be history 
+I personally love APIs and this is the best resource so far ... search for an API .. go-to docs and rest will be history 
 
-*Enought talk about resources will surely make another post on it and compile all of em into one*
+*Enough talk about resources will surely make another post on it and compile all of em into one*
 
 ---
 
 ## How has the challenge impacted me so far ?
 
-I have learned to code html,css and javascript and currently learning svelte . I have built around 20 projects , met new people , learnt new things and made some really cool friends  on twitter and made it habit to code atleast for an hour a day so hopefully heading in the right direction.
+I have learned to code HTML,CSS,JavaScript and currently learning svelte . I have built around 20 projects , met new people , learnt new things and made some really cool friends  on twitter and made it habit to code at least for an hour a day so hopefully heading in the right direction.
 
 ### What's my plan for remaining days ?
 
