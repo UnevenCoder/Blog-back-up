@@ -10,7 +10,6 @@ APIs we are going to discuss today :
  - Giphy API
  - Sound cloud API
  - Discord API
- - Hashnode API
  - Covid-19 API
  - Pokemon API
 
@@ -97,10 +96,6 @@ A simple **song/music app** clone.
 Commands my discord bot currently has... You can test the bot out [here](https://discord.gg/h7xc2kA)
 
 This is your own creative space, play around with it. Learn new things and enjoy them.
-
-### [Hashnode API](https://api.hashnode.com/)
-
-An **API** you can use to **retrieve** blog posts etc. You can add a **blog section** on your **portfolio** which will even **enhance your portfolio** by adding a **blog section** on it.
 
 ### [Covid-19 API](https://covid2019-api.herokuapp.com/docs)
 
