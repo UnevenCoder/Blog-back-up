@@ -1,8 +1,10 @@
 ## 6 APIs & 7  Projects for your portfolio
 
-At times we have moments where **we don't know** what to do. Just staring at the **black and blank code editor** having no idea what to work on. 
+**Learning** to use an API is a **must** skill in the **modern** world. I will be sharing several **fun** APIs and **projects** that will **enhance** your **portfolio**.
 
-To **help** others **overcome** this , I have covered **every API** with a **project** you can do **alongside** it.
+At times we have moments where **we don't know** what to do. Just staring at the **black and blank code editor** having no idea what to work on.
+
+To **help**  **overcome** this , I have covered **every API** with a **project** you can do **alongside** it.
 
 APIs we are going to discuss today :
  - Giphy API
