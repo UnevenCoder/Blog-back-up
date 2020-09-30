@@ -1,8 +1,5 @@
 ## 6 APIs & 7  Projects for your portfolio
 
-
-### Introduction
-
 At times we have moments where **we don't know** what to do. Just staring at the **black and blank code editor** having no idea what to work on. 
 
 To **help** others **overcome** this , I have covered **every API** with a **project** you can do **alongside** it.
